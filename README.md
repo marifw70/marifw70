@@ -1,8 +1,8 @@
 ### Hi there, I'm Arif 👋
 
-# I'm currently looking for a job as an Data Scientist/Data Analyst
+# I'm currently working for Bank Muamalat Indonesia
 
-- 🌱 I’m currently learning to be Data Scientist
+- 🌱 I’m currently Learning for developing web app
 - 👯 I’m looking to collaborate with others Data Scientists
 
 ## Connect with me: 
